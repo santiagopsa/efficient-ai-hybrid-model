@@ -1,0 +1,6 @@
+Copyright (c) 2025 Santiago González Ramírez.
+
+This work is available for non-commercial research purposes only.
+Redistribution, modification, and commercial use require explicit written permission from the author.
+
+For licensing inquiries, contact santiagopsa@gmail.com.
